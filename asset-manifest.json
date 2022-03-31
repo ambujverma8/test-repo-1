@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ambujverma8/test-repo-1/static/css/main.e6c13ad2.css",
+    "main.js": "/ambujverma8/test-repo-1/static/js/main.c199cace.js",
+    "static/js/787.d3befce1.chunk.js": "/ambujverma8/test-repo-1/static/js/787.d3befce1.chunk.js",
+    "index.html": "/ambujverma8/test-repo-1/index.html",
+    "main.e6c13ad2.css.map": "/ambujverma8/test-repo-1/static/css/main.e6c13ad2.css.map",
+    "main.c199cace.js.map": "/ambujverma8/test-repo-1/static/js/main.c199cace.js.map",
+    "787.d3befce1.chunk.js.map": "/ambujverma8/test-repo-1/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c199cace.js"
+  ]
+}
